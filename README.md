@@ -1,4 +1,4 @@
 Talks
 =====
 
-* [Building Github 'Bots](bot-talk.pdf)
+* [Building Github 'Bots](github-bots/bot-talk.pdf)
