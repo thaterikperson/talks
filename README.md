@@ -1,4 +1,4 @@
 Talks
 =====
 
-* [Building Github 'Bots](https://github.com/erikperson/talks/github-bots)
+* [Building Github 'Bots](/erikperson/talks/tree/master/github-bots)
