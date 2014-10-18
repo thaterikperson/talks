@@ -5,4 +5,4 @@ Talks
 * [Building Github 'Bots](github-bots/bot-talk.pdf?raw=true)
 
 ### Austin Code Camp 2014
-* [CSP: The Future Of Asynchronous Javascript](csp/csp-talk.pdf?raw=true)
+* [CSP: The Future Of Asynchronous Javascript](csp/csp-slides.pdf?raw=true)
